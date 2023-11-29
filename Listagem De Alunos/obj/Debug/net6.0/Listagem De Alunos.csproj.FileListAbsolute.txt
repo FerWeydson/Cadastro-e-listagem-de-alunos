@@ -1,0 +1,15 @@
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\bin\Debug\net6.0\Listagem De Alunos.exe
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\bin\Debug\net6.0\Listagem De Alunos.deps.json
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\bin\Debug\net6.0\Listagem De Alunos.runtimeconfig.json
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\bin\Debug\net6.0\Listagem De Alunos.dll
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\bin\Debug\net6.0\Listagem De Alunos.pdb
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\obj\Debug\net6.0\Listagem De Alunos.csproj.AssemblyReference.cache
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\obj\Debug\net6.0\Listagem De Alunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\obj\Debug\net6.0\Listagem De Alunos.AssemblyInfoInputs.cache
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\obj\Debug\net6.0\Listagem De Alunos.AssemblyInfo.cs
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\obj\Debug\net6.0\Listagem De Alunos.csproj.CoreCompileInputs.cache
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\obj\Debug\net6.0\Listagem De Alunos.dll
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\obj\Debug\net6.0\refint\Listagem De Alunos.dll
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\obj\Debug\net6.0\Listagem De Alunos.pdb
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\obj\Debug\net6.0\Listagem De Alunos.genruntimeconfig.cache
+D:\Projetos\net-csharp\Listagem De Alunos\Listagem De Alunos\obj\Debug\net6.0\ref\Listagem De Alunos.dll
